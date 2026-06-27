@@ -1,0 +1,290 @@
+
+Paleta ------------------------------------------------------------------------
+Primary
+#2563EB
+
+Primary Hover
+#1D4ED8
+
+Dark
+#111827
+
+Gray Dark
+#374151
+
+Gray
+#6B7280
+
+Gray Light
+#E5E7EB
+
+Background
+#F9FAFB
+
+White
+#FFFFFF
+
+Success
+#22C55E
+
+Danger
+#EF4444
+
+
+Tipografia ---------------------------------------------------------------------
+inter
+
+Hero
+
+56px
+
+H1
+
+48px
+
+H2
+
+36px
+
+H3
+
+28px
+
+Título Card
+
+22px
+
+Texto
+
+18px
+
+Texto pequeno
+
+16px
+
+Espaçamentos --------------------------------------------------------------------
+4
+8
+12
+16
+24
+32
+48
+64
+96
+128
+
+Botões ---------------------------------------------------------------------------
+
+Primario:
+Fundo Azul
+
+Texto Branco
+
+Raio 10px
+
+Padding
+
+16 x 28
+
+Hover
+
+Azul mais escuro.
+
+
+Secunário: 
+Branco
+
+Borda Azul
+
+Texto Azul
+
+
+WhatsApp:
+
+Verde
+
+Ícone
+
+
+
+Cards ------------------------------------------------------------------------------------
+───────────────
+
+Ícone
+
+Título
+
+Texto
+
+Botão
+
+───────────────
+
+Raio:
+
+16px
+
+Sombra:
+
+Muito suave.
+
+Container -----------------------------------------------------------------------------------------
+max-width:1200px;
+margin:auto;
+padding:0 24px;
+
+
+Grid --------------------------------------------------------------------------------------------
+
+Desktop
+
+3 colunas
+
+Tablet
+
+2 colunas
+
+Mobile
+
+1 coluna
+
+
+Componentes -------------------------------------------------------------------------------------------
+
+A ideia é criar uma pequena biblioteca reutilizável.
+
+Navbar ---------------------------------------------
+Logo
+
+Links
+
+Botão CTA
+
+Hero ------------------------------------------------
+Título
+
+Texto
+
+Botões
+
+Imagem
+
+Features ----------------------------------------------
+Ícone
+
+Título
+
+Descrição
+
+Cards ------------------------------------------------
+
+Para:
+
+serviços
+projetos
+planos
+
+Depoimentos ------------------------------------------
+★★★★★
+
+Texto
+
+Foto
+
+Nome
+
+FAQ -------------------------------------------------
+
+Accordion.
+
+CTA --------------------------------------------------
+Título
+
+Texto
+
+Botão
+
+Footer -----------------------------------------------
+Logo
+
+Links
+
+Contato
+
+Redes sociais
+
+Animações --------------------------------------------------------------------------------------
+
+Somente três.
+
+Fade Up
+
+Fade Left
+
+Fade Right
+
+Nada além disso.
+
+Ícones ----------------------------------------------------------------------------------------------
+
+Eu usaria apenas uma biblioteca.
+
+Lucide Icons
+
+Porque:
+
+SVG
+moderna
+leve
+consistente
+
+Fotos -----------------------------------------------------------------------------------------------------
+
+Mesmo padrão.
+
+Sempre imagens:
+
+alta qualidade
+iluminação natural
+poucas cores
+bastante espaço negativo
+
+Organização do CSS ------------------------------------------------------------------------------------------
+variables.css
+
+↓
+
+base.css
+
+↓
+
+layout.css
+
+↓
+
+components.css
+
+↓
+
+utilities.css
+
+
+/* :root{
+    --primary:#2563EB;
+    --primaryHover:#1D4ED8;
+    --dark: #111827;
+    --grayDark: #374151;
+    --gray: #6B7280;
+    --grayLight: #E5E7EB;
+    --background: #F9FAFB;
+    --white: #ffffff;
+    --success: #22C55E;
+    --danger: #EF4444;
+
+
+    --black:#000;
+    
+    --muted:#bdbdbd;
+
+} */
