@@ -869,6 +869,15 @@ header{
     line-height:1.8;
 }
 
+.faq-container a {
+    padding: 0px 28px 25px;
+    color: var(--text);
+}
+
+.faq-container a:hover {
+    text-decoration: underline;
+}
+
 /* =========================
    CTA FINAL
 ========================= */
